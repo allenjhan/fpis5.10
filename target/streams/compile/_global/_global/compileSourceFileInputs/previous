@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/allen/rep/fpis5.10/src/main/scala/StreamFibsTest.scala","307358d760ecc44c9558e1d2c3b5dd383aeddf7f"]],"lastModifiedTimes":[]}}]
